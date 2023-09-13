@@ -17,7 +17,7 @@ if (myVar1 > myVar2) {
 
 /*
 ESERCIZIO 2
-  Crea un blocco condizionale if/else per mostrare in console il messaggio corretto in ogni condizione.
+  Crea un blocco condizionale if/else per mostrare in console il messaggio corretto in ogni condizione.ewee
 
   num < 5 - mostra in console "Tiny"
   num < 10 - mostra in console "Small"
