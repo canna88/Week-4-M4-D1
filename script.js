@@ -465,4 +465,4 @@ function matrixCreator(numero) {
 console.log(matrixCreator(2));
 console.log(matrixCreator(3));
 
-console.log(matrixCreator(5));
+console.log(matrixCreator(4));
